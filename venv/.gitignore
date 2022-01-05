@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+*
+#pip install qrcode
+#pip install pillow
+#pip install cryptography
+#pip install requests
